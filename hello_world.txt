@@ -1,1 +1,1 @@
-testando o uso do git com o github
+testando o uso do git
